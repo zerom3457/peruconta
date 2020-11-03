@@ -6,3 +6,5 @@
 ./modigitz ink-blog-tool.html
 ./modigitz post1.html
 ./modigitz tag.html
+
+cp -r /home/diegonode/Downloads/ink_linux_amd64/blog/public /home/diegonode/Documents/GitHub/peruconta/blog/public
