@@ -1,0 +1,3 @@
+#!/bin/bash
+cat "$1"| sed  's/href="\//href="https:\/\/gitcdn.link\/repo\/zerom3457\/peruconta\/main\/blog\/public\//g'  >index2z.html
+cat index2z.html>"$1"
