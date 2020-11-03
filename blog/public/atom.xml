@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
-  <title>peru contable</title>
+  <title>纸小墨官方博客</title>
   <id>http://www.chole.io/blog</id>
-  <updated>2020-11-03T11:09:08-05:00</updated>
-  <subtitle>contabilidad peru</subtitle>
+  <updated>2020-11-03T17:54:30-05:00</updated>
+  <subtitle>构建只为纯粹书写的博客</subtitle>
   <link href="http://www.chole.io/blog"></link>
   <author>
-    <name>peru contable</name>
+    <name>纸小墨官方博客</name>
   </author>
   <entry>
     <title>简洁的静态博客构建工具 —— 纸小墨（InkPaper）</title>
@@ -16,13 +16,6 @@
     <author>
       <name>纸小墨</name>
     </author>
-  </entry>
-  <entry>
-    <title>post 1</title>
-    <updated>2016-07-11T17:00:00+08:00</updated>
-    <id>tag:www.chole.io,2016-07-11:/blog/post1.html</id>
-    <content type="html">&lt;p&gt;Article Preview，Also use &lt;!--more--&gt; to split in body&lt;/p&gt;&#xA;</content>
-    <link href="http://www.chole.io/blog/post1.html"></link>
   </entry>
   <entry>
     <title>An Elegant Static Blog Generator —— InkPaper</title>
