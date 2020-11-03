@@ -1,10 +1,7 @@
 ./modigitz about.me.html
 ./modigitz archive.html
-./modigitz index2z.html
+./modigitz finalx.html
 ./modigitz index.html
 ./modigitz ink-blog-tool-en.html
 ./modigitz ink-blog-tool.html
-
 ./modigitz tag.html
-
-cp -r /home/diegonode/Downloads/ink_linux_amd64/blog/public /home/diegonode/Documents/GitHub/peruconta/blog/
